@@ -1,0 +1,3 @@
+[submodule "Streamy"]
+	path = Streamy
+	url = https://github.com/Sumeetrana/Streamy.git

@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "fsfksn",
+      "description": "nsdm,fs",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This should work now!!",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "This stream is crated by me",
+      "id": 3
+    },
+    {
+      "title": "This stream",
+      "description": "Streamshould work",
+      "id": 4
+    },
+    {
+      "title": "Best ",
+      "description": "Best of all",
+      "userId": {
+        "isSignedIn": true,
+        "user_id": "106500569406030780478"
+      },
+      "id": 5
+    },
+    {
+      "title": "Resused Stream",
+      "description": "About to refactor",
+      "id": 8
+    }
+  ]
+}
